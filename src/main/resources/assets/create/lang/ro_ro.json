@@ -215,7 +215,7 @@
   "block.create.furnace_engine": "Motor De Cuptor",
   "block.create.gantry_carriage": "Cărucior Portal",
   "block.create.gantry_shaft": "Rotor Portal",
-  "block.create.gearbox": "Cutie De Viteze",
+  "block.create.gearbox": "Cutie Cu Roți Dințate", //Cutia de viteze este altceva.
   "block.create.gearshift": "Schimbător De Viteze",
   "block.create.glass_fluid_pipe": "Conductă De Fluide De Sticlă",
   "block.create.granite_pillar": "Coloană De Granit",
